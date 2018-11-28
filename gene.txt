@@ -1,0 +1,4 @@
+#Valeur Initial, Valeur mini, Valeur max, arc1.1, arc1.2, ac1.3
+0,0,1,0,-1,0
+0,0,2,1,0,1
+0,0,1,-1,0,0
